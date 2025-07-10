@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Suzy!
 
-<!--
-**suzy0888/suzy0888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Front-End Developer** who loves building clean and responsive websites.  
+Currently, I have strong knowledge of **HTML** and **CSS**, and I'm actively learning **JavaScript** to expand my skills.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+Here are some of my projects:
+- 🔢 [Simple Calculator](https://github.com/suzy0888/Calculator-App) – A basic calculator made with HTML, CSS & JS
+- 🌐 Landing Page Projects (Coming Soon!)
+- 📝 To-Do List App (Coming Soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills
+- HTML5  
+- CSS3  
+- JavaScript (in progress)
+
+## 🎯 Current Goals
+- Improve my JavaScript knowledge
+- Build more responsive and interactive websites
+- Learn React in the future
+
+## 📫 Contact
+Feel free to check out my work or reach out via GitHub.
+
+> ✨ *Thank you for visiting my profile!* ✨
